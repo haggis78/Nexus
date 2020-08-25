@@ -5,7 +5,7 @@ In order for you to participate fully in this shared class space, I need to add 
 
 Now that you're here, you should try to "clone" this repository on your local computer.
 
-Read and follow the instructions here to get started with Git: http://newtfire.org/dh/explainGitShell.html
+Read and follow the instructions here to get started with Git: https://upg-dh.newtfire.org/explainGitShell.html
 
 When you have set up an account and have installed the Git Bash shell locally on your computer, you are ready to experiment with pushing (or committing) new files to this repository. Save a file in your local folder (or the "clone" of this repository), and then use your GitHub client to "push" a file into this online collaboration space. To do this, first commit your changes and write the required commit message. Then you must push in order to sync these changes to the GitHub cloud.
 
