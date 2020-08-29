@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="PsalmSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<root>
+    <psalm n="23" author="King_David" translation="King_James_Version">
+<!--whc: In making the first video, I forgot to include attributes and attribute values in the <psalm> element.-->
+        <verse n="1"><pers role="deity">The Lord</pers> is <pers role="speaker">my</pers> shepherd; <caesura/>
+            <pers role="speaker">I</pers> shall not want.</verse>
+
+        <verse n="2">
+            <pers role="deity">He</pers> maketh <pers role="speaker">me</pers> to lie down in green pastures:<caesura/>
+            <pers role="deity">he</pers> leadeth <pers role="speaker">me</pers> beside the still
+            waters.</verse>
+
+        <verse n="3">
+            <pers role="deity">He</pers> restoreth <pers role="speaker">my</pers> soul:<caesura/>
+            <pers role="deity">he</pers> leadeth <pers role="speaker">me</pers> in the paths of
+            righteousness for <pers role="deity">his</pers> name's sake.</verse>
+
+        <verse n="4"> Yea, though <pers role="speaker">I</pers> walk through the valley of the
+            shadow of death, <pers role="speaker">I</pers> will fear no evil:<caesura/> for <pers
+                role="deity">thou</pers> art with <pers role="speaker">me</pers>; <pers role="deity"
+                >thy</pers> rod and <pers role="deity">thy</pers> staff they comfort <pers
+                role="speaker">me</pers>.</verse>
+
+        <verse n="5">
+            <pers role="deity">Thou</pers> preparest a table before <pers role="speaker">me</pers>
+            in the presence of <pers role="speaker">mine</pers> <pers role="enemy">enemies</pers>:<caesura/>
+            <pers role="deity">thou</pers> anointest <pers role="speaker">my</pers> head with oil;
+                <pers role="speaker">my</pers> cup runneth over.</verse>
+
+        <verse n="6"> Surely goodness and mercy shall follow <pers role="speaker">me</pers> all the
+            days of <pers role="speaker">my</pers> life:<caesura/> and <pers role="speaker">I</pers>
+            will dwell in the house of <pers role="deity">the Lord</pers> for ever.</verse>
+    </psalm>
+</root>

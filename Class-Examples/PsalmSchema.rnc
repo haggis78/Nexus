@@ -1,0 +1,14 @@
+start = root
+root = element root { psalm+ }
+psalm = element psalm { n, author*, translation, verse* }
+verse = element verse { n, (pers | text)+, caesura, (pers | text)+ }
+pers = element pers { role, text }
+role = attribute role { "deity" | "speaker" | "enemy" | "friend" | "other" }
+caesura = element caesura { empty }
+n = attribute n { xsd:integer }
+# whc: note that the attribute n, for number, is used within the elements <psalm> 
+# and also <verse>. That's OK, but n must mean the same thing every time: a number. 
+# This is a potential problem with using "type" as an attribute: 
+# you often want to use it in many different ways, and you really can't. 
+author = attribute author { text }
+translation = attribute translation { "King_James_Version" | "other" }
