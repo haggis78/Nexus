@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <text type="address" place="Gettysburg" author="Lincoln" year="1863">
+        <sentence n="1"><HistRef event="Revolutionary_War">Fourscore and seven years ago our fathers brought forth, on this continent, a new nation,</HistRef> conceived in liberty, and dedicated to the proposition that all men are created equal.</sentence>
+        <sentence n="2"> Now we are engaged in a <HistRef event="Civil_War">great civil war</HistRef>, testing whether that nation, or any nation so conceived, and so dedicated, can long endure.</sentence>
+        <sentence n="3">We are met on a <PlaceRef place="Gettysburg">great battle-field</PlaceRef> of <HistRef event="Civil_War">that war</HistRef>. </sentence>
+        <sentence n="4">We have come to dedicate a portion of <PlaceRef place="Gettysburg">that field</PlaceRef>, as a final resting-place for those who <PlaceRef place="Gettysburg">here</PlaceRef> gave their lives, that that nation might live.</sentence>
+        <sentence n="5">It is altogether fitting and proper that we should do this.</sentence>
+        <sentence n="6">But, in a larger sense, we cannot dedicate, we cannot consecrate—we cannot hallow—<PlaceRef place="Gettysburg">this ground</PlaceRef>.</sentence>
+        <sentence n="7">The brave men, living and dead, who struggled <PlaceRef place="Gettysburg">here</PlaceRef>, have consecrated it far above our poor power to add or detract.</sentence>
+        <sentence n="8">The world will little note, nor long remember what we say <PlaceRef place="Gettysburg">here</PlaceRef>, but it can never forget what they did <PlaceRef place="Gettysburg">here</PlaceRef>.</sentence>
+        <sentence n="9">It is for us the living, rather, to be dedicated <PlaceRef place="Gettysburg">here</PlaceRef> to the unfinished work which they who fought <PlaceRef place="Gettysburg">here</PlaceRef> have thus far so nobly advanced.</sentence>
+        <sentence n="10">It is rather for us to be <PlaceRef place="Gettysburg">here</PlaceRef> dedicated to the great task remaining before us—that from these honored dead we take increased devotion to that cause for which they <PlaceRef place="Gettysburg">here</PlaceRef> gave the last full measure of devotion—that we <PlaceRef place="Gettysburg">here</PlaceRef> highly resolve that these dead shall not have died in vain—that this nation, under God, shall have a new birth of freedom, and that government of the people, by the people, for the people, shall not perish from the earth.</sentence>
+    </text>
+
+
+</root>
