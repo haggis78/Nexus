@@ -1,0 +1,14 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+start = address
+address = element text {place | author| year}
+place = element place {text} 
+author = element author {text}
+year = element year {text}
+
+
+
+
+
+
+
+
