@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sha-pht">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>The Phoenix and Turtle</title>
+                <author>William Shakespeare</author>
+                <respStmt>
+                    <name>Craig A. Berry, Martin Mueller, and Clifford Wulfman</name>
+                    <resp>editors</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Jeffrey Cousens and Bill Parod</name>
+                    <resp>technical editors</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Lawrence Berland, Hilary Bina, Katherine Gould, Kreg Segal, Nicholas Terrell</name>
+                    <resp>editorial assistants</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+                    <title>The WordHoard Shakespeare</title>
+          is a joint project of the Perseus Project at Tufts University, The Northwestern University Library, and Northwestern University Academic Technologies. It is derived from
+          <title>The Globe Shakespeare</title>
+          , the one-volume version of the
+          <title>Cambridge Shakespeare</title>
+          , edited by W. G. Clark, J. Glover, and W. A. Wright (1891-3). The
+          <title>Internet Shakespeare</title>
+          editions of the quartos and folios have been consulted to create a modern text that observes as closely as possible the morphological and prosodic practices of the earliest editions. Spellings, especially of contracted and hyphenated forms, have been standardized across the corpus. The text has been fully lemmatized and morphosyntactically tagged.
+        </p>
+                <p>
+          © 2003. The copyright to
+          <title>The WordHoard Shakespeare</title>
+          is owned jointly by Northwestern University and Tufts University.
+          <title>The WordHoard Shakespeare</title>
+          is provided for free solely for non-commercial use by students, scholars, and the public. Any commercial use or publication of it, in whole or in part, without prior written authorization of the copyright holders is strictly prohibited.
+        </p>
+            </publicationStmt>
+            <sourceDesc default="false">
+                <p>
+          The Wordhoard Shakespeare is derived from, but not identical with,
+          <title>The Globe Shakespeare</title>
+          , the one-volume version of the
+          <title>Cambridge Shakespeare</title>
+          (1891-3) edited by W. G. Clark, J. Glover, and W. A. Wright.
+        </p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <front/>
+        <body>
+            <div xml:id="sha-phtbody">
+                <head>The Phoenix and Turtle</head>
+                <lg type="stanza" n="1" xml:id="sha-phtu-s1">
+                    <l xml:id="sha-phtu0001" n="1">
+            LET the bird of loudest lay,
+          </l>
+                    <l xml:id="sha-phtu0002" n="2">
+            On the sole Arabian tree,
+          </l>
+                    <l xml:id="sha-phtu0003" n="3">
+            Herald sad and trumpet be,
+          </l>
+                    <l xml:id="sha-phtu0004" n="4">
+            To whose sound chaste wings obey.
+          </l>
+                </lg>
+                <lg type="stanza" n="2" xml:id="sha-phtu-s2">
+                    <l xml:id="sha-phtu0005" n="5">
+            But thou shrieking harbinger,
+          </l>
+                    <l xml:id="sha-phtu0006" n="6">
+            Foul precurrer of the fiend,
+          </l>
+                    <l xml:id="sha-phtu0007" n="7">
+            Augur of the fever's end,
+          </l>
+                    <l xml:id="sha-phtu0008" n="8">
+            To this troop come thou not near!
+          </l>
+                </lg>
+                <lg type="stanza" n="3" xml:id="sha-phtu-s3">
+                    <l xml:id="sha-phtu0009" n="9">
+            From this session interdict
+          </l>
+                    <l xml:id="sha-phtu0010" n="10">
+            Every fowl of tyrant wing,
+          </l>
+                    <l xml:id="sha-phtu0011" n="11">
+            Save the eagle, feathered king:
+          </l>
+                    <l xml:id="sha-phtu0012" n="12">
+            Keep the obsequy so strict.
+          </l>
+                </lg>
+                <lg type="stanza" n="4" xml:id="sha-phtu-s4">
+                    <l xml:id="sha-phtu0013" n="13">
+            Let the priest in surplice white,
+          </l>
+                    <l xml:id="sha-phtu0014" n="14">
+            That defunctive music can,
+          </l>
+                    <l xml:id="sha-phtu0015" n="15">
+            Be the death-divining swan,
+          </l>
+                    <l xml:id="sha-phtu0016" n="16">
+            Lest the requiem lack his right.
+          </l>
+                </lg>
+                <lg type="stanza" n="5" xml:id="sha-phtu-s5">
+                    <l xml:id="sha-phtu0017" n="17">
+            And thou treble-dated crow,
+          </l>
+                    <l xml:id="sha-phtu0018" n="18">
+            That thy sable gender makest
+          </l>
+                    <l xml:id="sha-phtu0019" n="19">
+            With the breath thou givest and takest,
+          </l>
+                    <l xml:id="sha-phtu0020" n="20">
+            'Mongst our mourners shalt thou go.
+          </l>
+                </lg>
+                <lg type="stanza" n="6" xml:id="sha-phtu-s6">
+                    <l xml:id="sha-phtu0021" n="21">
+            Here the anthem doth commence:
+          </l>
+                    <l xml:id="sha-phtu0022" n="22">
+            Love and Constancy is dead;
+          </l>
+                    <l xml:id="sha-phtu0023" n="23">
+            Phoenix and the turtle fled
+          </l>
+                    <l xml:id="sha-phtu0024" n="24">
+            In a mutual flame from hence.
+          </l>
+                </lg>
+                <lg type="stanza" n="7" xml:id="sha-phtu-s7">
+                    <l xml:id="sha-phtu0025" n="25">
+            So they loved, as love in twain
+          </l>
+                    <l xml:id="sha-phtu0026" n="26">
+            Had the essence but in one;
+          </l>
+                    <l xml:id="sha-phtu0027" n="27">
+            Two distincts, division none:
+          </l>
+                    <l xml:id="sha-phtu0028" n="28">
+            Number there in love was slain.
+          </l>
+                </lg>
+                <lg type="stanza" n="8" xml:id="sha-phtu-s8">
+                    <l xml:id="sha-phtu0029" n="29">
+            Hearts remote, yet not asunder;
+          </l>
+                    <l xml:id="sha-phtu0030" n="30">
+            Distance, and no space was seen
+          </l>
+                    <l xml:id="sha-phtu0031" n="31">
+            'Twixt this turtle and his queen:
+          </l>
+                    <l xml:id="sha-phtu0032" n="32">
+            But in them it were a wonder.
+          </l>
+                </lg>
+                <lg type="stanza" n="9" xml:id="sha-phtu-s9">
+                    <l xml:id="sha-phtu0033" n="33">
+            So between them love did shine,
+          </l>
+                    <l xml:id="sha-phtu0034" n="34">
+            That the turtle saw his right
+          </l>
+                    <l xml:id="sha-phtu0035" n="35">
+            Flaming in the phoenix' sight;
+          </l>
+                    <l xml:id="sha-phtu0036" n="36">
+            Either was the other's mine.
+          </l>
+                </lg>
+                <lg type="stanza" n="10" xml:id="sha-phtu-s10">
+                    <l xml:id="sha-phtu0037" n="37">
+            Property was thus appalled,
+          </l>
+                    <l xml:id="sha-phtu0038" n="38">
+            That the self was not the same;
+          </l>
+                    <l xml:id="sha-phtu0039" n="39">
+            Single nature's double name
+          </l>
+                    <l xml:id="sha-phtu0040" n="40">
+            Neither two nor one was called.
+          </l>
+                </lg>
+                <lg type="stanza" n="11" xml:id="sha-phtu-s11">
+                    <l xml:id="sha-phtu0041" n="41">
+            Reason, in itself confounded,
+          </l>
+                    <l xml:id="sha-phtu0042" n="42">
+            Saw division grow together,
+          </l>
+                    <l xml:id="sha-phtu0043" n="43">
+            To themselves yet either neither,
+          </l>
+                    <l xml:id="sha-phtu0044" n="44">
+            Simple were so well compounded,
+          </l>
+                </lg>
+                <lg type="stanza" n="12" xml:id="sha-phtu-s12">
+                    <l xml:id="sha-phtu0045" n="45">
+            That it cried, How true a twain
+          </l>
+                    <l xml:id="sha-phtu0046" n="46">
+            Seemeth this concordant one!
+          </l>
+                    <l xml:id="sha-phtu0047" n="47">
+            Love hath reason, reason none,
+          </l>
+                    <l xml:id="sha-phtu0048" n="48">
+            If what parts can so remain.
+          </l>
+                </lg>
+                <lg type="stanza" n="13" xml:id="sha-phtu-s13">
+                    <l xml:id="sha-phtu0049" n="49">
+            Whereupon it made this threne
+          </l>
+                    <l xml:id="sha-phtu0050" n="50">
+            To the phoenix and the dove,
+          </l>
+                    <l xml:id="sha-phtu0051" n="51">
+            Co-supremes and stars of love,
+          </l>
+                    <l xml:id="sha-phtu0052" n="52">
+            As chorus to their tragic scene.
+          </l>
+                </lg>
+                <lg type="stanza" n="14" xml:id="sha-phtu-s14">
+                    <l xml:id="sha-phtu0053" n="53">
+            Beauty, truth, and rarity,
+          </l>
+                    <l xml:id="sha-phtu0054" n="54">
+            Grace in all simplicity,
+          </l>
+                    <l xml:id="sha-phtu0055" n="55">
+            Here enclosed in cinders lie.
+          </l>
+                </lg>
+                <lg type="stanza" n="15" xml:id="sha-phtu-s15">
+                    <l xml:id="sha-phtu0056" n="56">
+            Death is now the phoenix' nest;
+          </l>
+                    <l xml:id="sha-phtu0057" n="57">
+            And the turtle's loyal breast
+          </l>
+                    <l xml:id="sha-phtu0058" n="58">
+            To eternity doth rest,
+          </l>
+                </lg>
+                <lg type="stanza" n="16" xml:id="sha-phtu-s16">
+                    <l xml:id="sha-phtu0059" n="59">
+            Leaving no posterity:
+          </l>
+                    <l xml:id="sha-phtu0060" n="60">
+            'Twas not their infirmity,
+          </l>
+                    <l xml:id="sha-phtu0061" n="61">
+            It was married chastity.
+          </l>
+                </lg>
+                <lg type="stanza" n="17" xml:id="sha-phtu-s17">
+                    <l xml:id="sha-phtu0062" n="62">
+            Truth may seem, but cannot be:
+          </l>
+                    <l xml:id="sha-phtu0063" n="63">
+            Beauty brag, but 'tis not she;
+          </l>
+                    <l xml:id="sha-phtu0064" n="64">
+            Truth and beauty buried be.
+          </l>
+                </lg>
+                <lg type="stanza" n="18" xml:id="sha-phtu-s18">
+                    <l xml:id="sha-phtu0065" n="65">
+            To this urn let those repair
+          </l>
+                    <l xml:id="sha-phtu0066" n="66">
+            That are either true or fair;
+          </l>
+                    <l xml:id="sha-phtu0067" n="67">
+            For these dead birds sigh a prayer.
+          </l>
+                </lg>
+            </div>
+        </body>
+    </text>
+</TEI>

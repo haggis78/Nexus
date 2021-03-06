@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<code-table xml:id="access-condition-type-code">
+    <code-table-name>work-types</code-table-name>
+    <basis> http://shakespeare.about.com/od/theplays/a/Tragedy_Comedy_History.htm,
+        http://www.nosweatshakespeare.com/shakespeare-plays/play-types/,
+        http://shakespeare.nuvvo.com/lesson/4448-shakespeare-plays-comedies-tragedies-histories,
+        http://www.examiner.com/article/shakespeare-101-how-are-shakespeare-s-plays-classified</basis>
+    <description/>
+    <items>
+        <item>
+            <id>sha-ant</id>
+            <label>Antony and Cleopatra</label>
+            <value>Tragedy</value>
+            <value>Roman</value>
+        </item>
+        <item>
+            <id>sha-cor</id>
+            <label>Coriolanus</label>
+            <value>Tragedy</value>
+            <value>Roman</value>
+        </item>
+        <item>
+            <id>sha-ham</id>
+            <label>Hamlet, Prince of Denmark</label>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-juc</id>
+            <label>Julius Caesar</label>
+            <value>Roman</value>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-kil</id>
+            <label>King Lear</label>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-mac</id>
+            <label>Macbeth</label>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-oth</id>
+            <label>Othello, the Moor of Venice</label>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-roj</id>
+            <label>Romeo and Juliet</label>
+            <value>Tragedy</value>
+            <value>Masque</value>
+        </item>
+        <item>
+            <id>sha-tim</id>
+            <label>Timon of Athens</label>
+            <value>Tragedy</value>
+            <value>Problem</value>
+        </item>
+        <item>
+            <id>sha-tit</id>
+            <label>Titus Andronicus</label>
+            <value>Tragedy</value>
+        </item>
+        <item>
+            <id>sha-aww</id>
+            <label>All's Well That Ends Well</label>
+            <value>Comedy</value>
+            <value>Problem</value>
+        </item>
+        <item>
+            <id>sha-ayl</id>
+            <label>As You Like It</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-com</id>
+            <label>The Comedy of Errors</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-cym</id>
+            <label>Cymbeline</label>
+            <value>Comedy</value>
+            <value>Romance</value>
+            <value>Tragicomedy</value>
+        </item>
+        <item>
+            <id>sha-lll</id>
+            <label>Love's Labour's Lost</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-mem</id>
+            <label>Measure for Measure</label>
+            <value>Comedy</value>
+            <value>Problem</value>
+        </item>
+        <item>
+            <id>sha-mww</id>
+            <label>The Merry Wives of Windsor</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-mev</id>
+            <label>The Merchant of Venice</label>
+            <value>Comedy</value>
+            <value>Tragicomedy</value>
+        </item>
+        <item>
+            <id>sha-mnd</id>
+            <label>A Midsummer Night's Dream</label>
+            <value>Comedy</value>
+            <value>Masque</value>
+        </item>
+        <item>
+            <id>sha-man</id>
+            <label>Much Ado About Nothing</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-per</id>
+            <label>Pericles, Prince of Tyre</label>
+            <value>Comedy</value>
+            <value>Romance</value>
+        </item>
+        <item>
+            <id>sha-tam</id>
+            <label>The Taming of the Shrew</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-tem</id>
+            <label>The Tempest</label>
+            <value>Comedy</value>
+            <value>Masque</value>
+            <value>Romance</value>
+        </item>
+        <item>
+            <id>sha-tro</id>
+            <label>Troilus and Cressida</label>
+            <value>Comedy</value>
+            <value>Problem</value>
+        </item>
+        <item>
+            <id>sha-twn</id>
+            <label>Twelfth Night or What You Will</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-tgv</id>
+            <label>Two Gentlemen of Verona</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id/>
+            <label>The Two Noble Kinsmen</label>
+            <value>Comedy</value>
+        </item>
+        <item>
+            <id>sha-win</id>
+            <label>The Winter's Tale</label>
+            <value>Comedy</value>
+            <value>Problem</value>
+            <value>Romance</value>
+            <value>Tragicomedy</value>
+        </item>
+        <item>
+            <id>sha-1h4</id>
+            <label>The First Part of King Henry the Fourth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-2h4</id>
+            <label>The Second Part of King Henry the Fourth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-he5</id>
+            <label>The Life of King Henry the Fifth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-1h6</id>
+            <label>The First Part of King Henry the Sixth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-2h6</id>
+            <label>The Second Part of King Henry the Sixth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-3h6</id>
+            <label>The Third Part of King Henry the Sixth</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-he8</id>
+            <label>The Life of King Henry the Eighth</label>
+            <value>History</value>
+            <value>Masque</value>
+        </item>
+        <item>
+            <id>sha-kij</id>
+            <label>The Life and Death of King John</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-ri2</id>
+            <label>The Tragedy of King Richard the Second</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-ri3</id>
+            <label>The Tragedy of King Richard the Third</label>
+            <value>History</value>
+        </item>
+        <item>
+            <id>sha-son</id>
+            <label>Sonnets</label>
+            <value>Poetry</value>
+        </item>
+        <item>
+            <id>sha-ven</id>
+            <label>Venus and Adonis</label>
+            <value>Poetry</value>
+        </item>
+        <item>
+            <id>sha-rap</id>
+            <label>The Rape of Lucrece</label>
+            <value>Poetry</value>
+        </item>
+        <item>
+            <id>sha-pht</id>
+            <label>The Phoenix and Turtle</label>
+            <value>Poetry</value>
+        </item>
+        <item>
+            <id>sha-lov</id>
+            <label>A Lover's Complaint</label>
+            <value>Poetry</value>
+        </item>
+    </items>
+</code-table>
