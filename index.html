@@ -1,0 +1,391 @@
+
+<!doctype html>
+  <html>
+  <head>
+    <meta charset="utf-8">
+    <title>Paper Rubric</title>
+    <style>
+
+    span.Heading1Char {
+      color: black;
+    }
+    table {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10pt;
+      vertical-align:top;
+    }
+    tr {
+      vertical-align:top;
+    }
+    th {
+      padding-bottom:3px; 
+    }
+    td,th {
+      padding-right:3px;
+      text-align:left;
+    }
+    input {
+      width: 25pt;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 12pt;
+    }
+    .CatDesc {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 8pt;
+      padding-bottom: 5px;
+    }
+    .CatTitle {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 11pt;
+      font-weight: bold;
+    }
+    .CatValue {
+      width: 0pt;
+      display:none;
+    }
+    .GrOption {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 10pt;
+      font-weight: bold;
+      padding: 8px 20px 8px 20px;
+      background-color: #ddd;
+      display: block;
+      float: left;
+      margin-right: 2px;
+      margin-bottom: 2px;
+    }
+    .GrDesc {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 9pt;
+      padding-bottom: 5px;
+      clear:both;
+    }
+    </style>
+  </head>
+
+  <body lang="EN-US">
+    <table id="maintable" border="0" cellspacing="0" cellpadding="0" width="100%">
+      <thead>
+        <th>&nbsp;</th>
+        <th></th>
+        <th>Unacceptable</th>
+        <th>Poor</th>
+        <th>Okay</th>
+        <th>Very Good</th>
+        <th>Excellent</th>
+      </thead>
+      <tr>
+        <td>
+          <div class="CatTitle">Basic Requirements:</div>
+          <div class="CatDesc">Does the essay meet the goals of the assignment as laid out in the game book and the role sheet? Is it written in character? Does it reflect the historical context in tone, manner, and expression?</div>
+        </td>
+        <td><input class="CatValue" type="text" name="basic-requirements" id="basic-requirements"></td>
+        <td width="17%">
+          <div class="GrOption">0</div>
+          <div class='GrOption'>5</div>
+          <div class="GrDesc">None met. Zero if plagiarized.</div> 
+        </td>
+        <td width="17%">
+          <div class="GrOption">6</div>
+          <div class="GrDesc">One expectation met or more than one imperfectly so.</div>
+        </td>
+        <td width="17%">
+          <div class="GrOption">7</div>
+          <div class="GrDesc">Some expectations met.</div>
+        </td>
+        <td width="17%">
+          <div class="GrOption">8</div>
+          <div class="GrDesc">Most expectations met.</div>
+        </td>
+        <td width="17%">
+          <div class="GrOption">9</div>
+          <div class="GrOption">10</div>
+          <div class="GrDesc">Excelled at meeting all expectations.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="CatTitle">Thesis:</div>
+          <div class="CatDesc">Does the essay develop a clear thesis in keeping with the assignment?</div>
+        </td>
+        <td><input class="CatValue" type="text" id="thesis"></td>
+        <td>
+          <div class="GrOption">0</div>
+          <div class="GrOption">12</div>
+          <div class="GrDesc">No clear thesis. Zero if plagiarized.</div>
+        </td>
+        <td>
+          <div class="GrOption">13</div>
+          <div class="GrOption">14</div>
+          <div class="GrDesc">Thesis is unclear, ill-defined, or merely self-evident.</div>
+        </td>
+        <td>
+          <div class="GrOption">15</div>
+          <div class="GrOption">16</div>
+          <div class="GrDesc">Thesis is present, but underdeveloped or overly vague or broad. Some parts of the paper do not connect clearly to the thesis.</div>
+        </td>
+        <td>
+          <div class="GrOption">17</div>
+          <div class="GrOption">18</div>
+          <div class="GrDesc">Clear arguable thesis that functions as the central, organizing idea of the paper, but may have minor lapses in development.</div>
+        </td>
+        <td>
+          <div class="GrOption">19</div>
+          <div class="GrOption">20</div>
+          <div class="GrDesc">Interesting, sophisticated thesis, to which every part of the essay clearly connects. Well-developed throughout.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="CatTitle">Sources/Core Texts:</div>
+          <div class="CatDesc">Does the essay make use of sources as specified by the game materials (usually core texts)? Are they well chosen? Is ample evidence used?</div>
+        </td>
+        <td><input class="CatValue" type="text" id="sources"></td>
+        <td>
+          <div class="GrOption">0</div>
+          <div class="GrOption">12</div>
+          <div class="GrDesc">No evidence supplied. Zero if plagiarized.</div>
+        </td>
+        <td>
+          <div class="GrOption">13</div>
+          <div class="GrOption">14</div>
+          <div class="GrDesc">One quotation or bit of evidence or more but poorly chosen.</div>
+        </td>
+        <td>
+          <div class="GrOption">15</div>
+          <div class="GrOption">16</div>
+          <div class="GrDesc">Two quotations or pieces of concrete evidence or more evidence but not compelling.</div>
+        </td>
+        <td>
+          <div class="GrOption">17</div>
+          <div class="GrOption">18</div>
+          <div class="GrDesc">Three well-chosen quotations or concrete evidence.</div>
+        </td>
+        <td>
+          <div class="GrOption">19</div>
+          <div class="GrOption">20</div>
+          <div class="GrDesc">Laced with compelling evidence.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="CatTitle">Argument:</div>
+          <div class="CatDesc">Does the essay make a strong and well-supported argument? Is it logically organized? Does it employ effective metaphors?</div>
+        </td>
+        <td><input class="CatValue" type="text" id="argument"></td>
+        <td>
+          <div class="GrOption">0</div>
+          <div class="GrOption">12</div>
+          <div class="GrDesc">Random ideas; generally incoherent. Zero if plagiarized.</div>
+        </td>
+        <td>
+          <div class="GrOption">13</div>
+          <div class="GrOption">14</div>
+          <div class="GrDesc">Random ideas; generally incoherent.</div>
+        </td>
+        <td>
+          <div class="GrOption">15</div>
+          <div class="GrOption">16</div>
+          <div class="GrDesc">A little disordered; poorly employed evidence; rough transitions; no introduction or conclusion.</div>
+        </td>
+        <td>
+          <div class="GrOption">17</div>
+          <div class="GrOption">18</div>
+          <div class="GrDesc">Coherent order; generally effective use of evidence; intro and conclusion.</div>
+        </td>
+        <td>
+          <div class="GrOption">19</div>
+          <div class="GrOption">20</div>
+          <div class="GrDesc">Engaging intro; compelling conclusion; smooth transitions; logical order of points; effectivce use of quotes, evidence, and metaphors.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="CatTitle">Writing Style:</div>
+          <div class="CatDesc">Is the essay well written with an engaging and compelling style?</div>
+        </td>
+        <td><input class="CatValue" type="text" id="writing-style"></td>
+        <td>
+          <div class="GrOption">0</div>
+          <div class="GrOption">12</div>
+          <div class="GrDesc">Nearly incomprehensible prose. Zero if plagiarized.</div>
+        </td>
+        <td>
+          <div class="GrOption">13</div>
+          <div class="GrOption">14</div>
+          <div class="GrDesc">Monotonous sentence structure; simple vocabulary; inconsistent voice.</div>
+        </td>
+        <td>
+          <div class="GrOption">15</div>
+          <div class="GrOption">16</div>
+          <div class="GrDesc">Sentence structure is
+            generally correct, but some sentences may be wordy, repetitive, or confusing. Inappropriate tone. Acceptable voice.</div>
+        </td>
+        <td>
+          <div class="GrOption">17</div>
+          <div class="GrOption">18</div>
+          <div class="GrDesc">Consistently uses words accurately and effectively. Sentences generally clear and focused, but may occasionally be wordy, vague, or ineffective. Good voice.</div>
+        </td>
+        <td>
+          <div class="GrOption">19</div>
+          <div class="GrOption">20</div>
+          <div class="GrDesc">Sentence structure is varied; sentences are focused and concise. Words chosen for precise meaning. Strong voice.</div>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <div class="CatTitle">Errors:</div>
+          <div class="CatDesc">Is the essay free of grammatical, typographical, formatting, and spelling errors?</div>
+        </td>
+        <td><input class="CatValue" type="text" id="errors"></td>
+        <td>
+          <div class="GrOption">0</div>
+          
+          <div class="GrOption">2</div>
+          <div class="GrDesc">Eight, nine, or ten or more errors per page. Zero if plagiarized.</div>
+        </td>
+        <td>
+          <div class="GrOption">3</div>
+          <div class="GrOption">4</div>
+          <div class="GrDesc">Six or seven errors per page.</div>
+        </td>
+        <td>
+          <div class="GrOption">5</div>
+          <div class="GrOption">6</div>
+          <div class="GrDesc">Four or five errors per page.</div>
+        </td>
+        <td>
+          <div class="GrOption">7</div>
+          <div class="GrOption">8</div>
+          <div class="GrDesc">Two or three errors per page.</div>
+        </td>
+        <td>
+          <div class="GrOption">9</div>
+          <div class="GrOption">10</div>
+          <div class="GrDesc">Error free or nearly so.</div>
+        </td>
+      </tr>
+    </table>
+    <div class="CatTitle" style="display:inline; vertical-align:top; margin-left:125px;font-size:13pt;">Total Grade:</div> 
+    <input type="text" id="total" style="font-weight:bold;vertical-align:top;">
+    <input type="text" id="grade" style="font-weight:bold;vertical-align:top;">
+    <textarea name="to_be_copied" id="to_be_copied" cols=70 rows=9 style="vertical-align:auto;font:8pt Arial, Helvetica, sans-serif;"></textarea>
+    <input type="submit" name="submitbutton" id="submitbutton" value="Copy text" style="width:150px;vertical-align:top;" onClick="copytext();">
+    <input type="submit" name="highlightbutton" id="highlightbutton" value="Load from text" style="width:150px;vertical-align:top;" onClick="highlightfromtext();">
+  </body>
+  <script type="text/javascript">
+  opts = document.getElementsByClassName('GrOption');
+  for (var i = 0; i < opts.length; i++) {
+    opts[i].addEventListener('click',clickhandler,false);
+  }
+
+  function clickhandler(){
+    row = this.parentNode.parentNode.rowIndex;
+    col = this.parentNode.cellIndex;
+    tbl = document.getElementById('maintable');
+    
+    values = this.parentNode.parentNode.querySelectorAll(".GrOption");
+
+    lastvalue = values[values.length-1].innerHTML;
+    
+    this.parentNode.parentNode.firstChild.nextSibling.nextSibling.nextSibling.firstChild.value = this.innerHTML + "/" + lastvalue + " " + tbl.rows[0].cells[col].innerText;
+    rownodes = this.parentNode.parentNode.getElementsByClassName('GrOption');
+    
+
+    for (var i = 0; i < rownodes.length; i++) {
+      rownodes[i].style.backgroundColor = "#ddd";
+    } 
+    this.style.backgroundColor = "#9cf";
+
+    var total, verbiage, child;
+    verbiage = '';
+    total = 0;
+    for (var i = 1, r; r = tbl.rows[i]; i++) {
+      child = r.cells[0].querySelector('.CatTitle');
+      if (child !== null) {
+        verbiage = verbiage + child.innerText + ' ';
+      }
+      child = r.cells[1].querySelector('input');
+
+      verbiage = verbiage + child.value + '\n';
+      if (child.value !== null) {
+        total = total + Number(child.value.match(/\d+/));
+      }
+    }
+
+    document.getElementById("total").value = total;
+    document.getElementById("to_be_copied").value = verbiage + "\nTotal points: " + total + " (" + lettergrade(total) + ")";
+    document.getElementById("grade").value = lettergrade(Number(document.getElementById("total").value));
+
+    document.getElementById("submitbutton").focus();
+  }
+
+  function highlightfromtext(){
+    var lines = document.getElementById("to_be_copied").value.split('\n');
+    var values = [];
+
+    for(var i = 0;i < lines.length;i++){
+      var re = new RegExp(/\d+/); //starts with digit, one or more
+      var m = re.exec(lines[i]);
+      if (m) {
+        values.push(m[0]);
+      }
+    }
+
+    tbl = document.getElementById('maintable');
+
+    for (i = 0; i < values.length-1; i++) {
+      var possible = tbl.rows[i+1].querySelectorAll(".GrOption");
+      for (j = 0; j < possible.length; j++) {
+        if (Number(possible[j].innerText) == Number(values[i])) {
+          possible[j].click();
+        }
+      }
+    }
+  }
+
+function lettergrade(t) {
+  if (t >= 95) 
+    return "A";
+  else if (t>= 90)
+    return "A-";
+  else if (t>= 87)
+    return "B+";
+  else if (t>= 83)
+    return "B";
+  else if (t>= 80)
+    return "B-";
+  else if (t>= 77)
+    return "C+";
+  else if (t>= 73)
+    return "C";
+  else if (t>= 70)
+    return "C-";
+  else if (t>= 67)
+    return "D+";
+  else if (t>= 63)
+    return "D";
+  else
+    return "F";
+}
+
+function copytext() {
+  document.getElementById("to_be_copied").select();
+  try {
+    return document.execCommand("copy");  // Security exception may be thrown by some browsers.
+  } catch (ex) {
+    console.warn("Copy to clipboard failed.", ex);
+    return false;
+  }
+}
+
+function toTitleCase(str) {
+  return str.replace(
+    /\w\S*/g,
+    function(txt) {
+      return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+    }
+  );
+}
+</script>
+</html>
