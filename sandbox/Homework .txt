@@ -1,0 +1,296 @@
+﻿The mean is a measure of center or central tendency for a set of numbers or a distribution.
+
+
+A. True
+B. False
+C. Cannot tell
+
+
+2. The mean for a set of values could be negative.
+
+
+A. True
+B. False
+C. Cannot tell
+
+
+
+
+3. Find the mean, median, and mode for the data: 8, 2, 7, 2, 6
+
+
+A. mean = 5, median = 6, mode = 2
+B. None of these
+C. mean = 6, median = 5, mode = 2
+
+
+
+
+4. The duration of a random sample of 16 commercials are given below (in seconds). Find the mean,
+median, and mode of these durations.
+30 12 26 7 14 35 20 30
+55 8 35 18 42 15 30 10
+
+
+A. Mean = 24.10, median=30, mode=23
+B. Mean =20.13, median=21, mode=35
+C. Mean=24.19, median=23, mode=30
+D. Mean=20, median=24.19, mode=30
+E. Mean=30, median=20, mode=22.13
+
+
+5. Suppose that 10 has a weight of 5; 20 has a weight of 3; and 30 has a weight of 2. Find the
+weighted average.
+A) 10 B) 17 C) 20 D) none of these
+
+
+
+
+
+
+
+
+6. In Chemistry 400, weights are assigned to required activities as follows:
+Class participation, 15%; exam 1, 20%; exam 2, 20%; exam 3, 20%; and laboratory 25%. Each activity is graded on a 100-point scale. Mary earned 70 points on class participation, 80 points on exam 1, 64 points on exam 2, 77 points on exam 3, and 96 points on laboratory. Compute her overall weighted average in the Chemistry 400 class. Please show all work to receive full credit.
+A. 78.7
+B. 77.4
+C. 100
+D. 78.2
+E. Cannot be determined
+
+
+7. A random sample of 210 high-school students were asked how many hours per week they spent studying at home. The results follow, where is the hours and is the number of students who spend that amount of study time. Note which is the variable value and which is the frequency the value occurs.
+3 5 7 9 11 30 45 70 55 10
+
+
+Compute the sample mean. Please show all work to receive full credit.
+A. 0.025
+B. 40.29
+C. 6.71
+D. 0.149
+E. 6
+
+
+8. Given the set of data 25, 16, 50, 19, 42, 37, find the mean.
+A) 31 B) 31.5 C) 34.5 D) 50
+
+
+9. Given the set of data 25, 16, 50, 19, 42, 37, find the median.
+A) 31 B) 31.5 C) 34.5 D) 50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Given the set of data below, find the variance. Use the table below to help you understand the formulas. 25, 16, 50, 19, 42, 37
+A) 184.3 B) 184.6 C) 921.5 D) 923
+
+
+
+
+Number of scores 
+	Deviation (x - x) 
+	(x - x)2 
+	x2
+	25
+	
+
+	
+
+	
+
+	16
+	
+
+	
+
+	
+
+	50 
+	
+
+	
+
+	
+
+	19
+	
+
+	
+
+	
+
+	42
+	
+
+	
+
+	
+
+	37
+	
+
+	
+
+	
+
+	
+
+11. Given the set of data 25, 16, 50, 19, 42, 37, find the standard deviation. Use the table and results on the previous page to help you. After working with lab 2, use SPSS to check your solutions.
+
+
+A) 13.58 B) 6.07 C) 184.3 D) 921.5
+
+
+Use the following information in Questions 12-15.
+A random sample of nine walleye pike from Salty Lake gave the following weights rounded to the nearest pound. Round answers to two decimals when necessary. Use the table below and/or SPSS to help you. Indicate, describe, or show what you did in the space below.
+3 4 11 6 5 7 6 2 4
+
+
+12. Find the range.
+A. 4 B. 5 C. 8 D. 9 E. None of these
+
+
+13. Find the sample mean.
+A. 5.33 B. 9 C. 7 D. 2.65 E. 5
+
+
+14. Find the sample variance.
+A. 2.65 B. 5 C. 5.33 D. 6.22 E. 7
+
+
+
+
+15. Find the sample standard deviation.
+A. 5.33 B. 7 C. 2.49 D. 2.65 E. 6.22
+
+
+
+
+score (Xi)
+	Deviation (x - x with -)
+	(x - x with -)2
+	x2
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+16. What are all the values that standard deviations can take?
+A) 0 is less than s is less than 1 
+B) -1 is more than s is more than 1
+C) s is greater than 0
+
+
+17. If a distribution is skewed to the left, then
+A) The median is less than the mean.
+B) The median is greater than the mean.
+C) The mean and median are equal.
+
+
+18. If a distribution is skewed to the right, then
+A) The median is less than the mean.
+B) The median is greater than the mean.
+C) The mean and median are equal.
+
+
+
+
+
+
+
+
+
+
+19. This is a standard deviation contest. Which set of data below has the largest standard deviation? Explain why.
+
+
+A. 6, 7, 8, 9
+B. 5, 5, 5, 5
+C. 0, 0, 9, 9
+D. 0, 1, 2, 3
+
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________
