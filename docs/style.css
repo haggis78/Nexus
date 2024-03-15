@@ -1,4 +1,22 @@
 body{
     background:green;
     color: #70003D;
+    margin: 100px;
+}
+p{
+    color: #FF33F0;
+}
+.noun{
+    font-weight: 900;
+    color: black;
+}
+p.noun{
+    color:white;
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+
 }
