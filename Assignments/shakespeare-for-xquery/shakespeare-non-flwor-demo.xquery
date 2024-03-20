@@ -8,7 +8,7 @@ declare option saxon:output "method=text";
  
  (:2:)
  (:collection('data/')//TEI//sp=>count()  :)
- 
+  
  (:3:)
 (: collection('data/')//TEI//titleStmt/title =>string-join("&#xa;") :)
 
