@@ -1,0 +1,11 @@
+body{
+    color: blue;
+    background-color: orange;
+    margin:50px;
+    
+}
+h1{
+    color: yellow;
+}
+hr{margin-left:-25px;}
+.noun{color:green;}
