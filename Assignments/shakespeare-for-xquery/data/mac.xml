@@ -8846,7 +8846,7 @@
               The queen, my lord, is dead.
             </l>
                     </sp>
-                    <sp who="Macbeth">
+                    <sp who="Macbeth" n="17">
                         <speaker>Macbeth</speaker>
                         <l xml:id="sha-mac505017" n="17">
               She should have died hereafter;
